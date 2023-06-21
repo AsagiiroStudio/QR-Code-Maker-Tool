@@ -4,8 +4,8 @@
 [**▶️ Run QR-Code Maker**](https://asagiirostudio.itch.io/qr-code-maker)
 
 ## Featured Highlights
-- Realtime QR-Code generation and preview
-- Easily download and copy QR-Codes
+- Realtime preview
+- Download your QR-Code
 - 100% free and open source
 
 ## Supported Engines
