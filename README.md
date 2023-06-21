@@ -13,5 +13,5 @@
 - [ ] Construct 2
 
 ## Contributions & References
-- Made using Construct 3: https://www.construct.net/
-- App icon by Iconfinder: https://www.iconfinder.com/
+- Made using Construct 3: [Open Link ➚](https://www.construct.net/)
+- App icon by Iconfinder: [Open Link ➚](https://www.iconfinder.com/)
