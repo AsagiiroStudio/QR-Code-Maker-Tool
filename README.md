@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/AsagiiroStudio/QR-Code-Maker-Tool/main/Distribution/ReadmeHeader.png)
 
 # Project Links
-[**▶️ Run QR-Code Maker**](https://asagiirostudio.itch.io/qr-code-maker)
+[**▶️ Run QR-Code Maker (Desktop Only)**](https://asagiirostudio.itch.io/qr-code-maker)
 
 ## Featured Highlights
 - Realtime preview
