@@ -1,15 +1,15 @@
 ![header](https://raw.githubusercontent.com/AsagiiroStudio/QR-Code-Maker-Tool/main/Distribution/ReadmeHeader.png)
 
 # Project Links
-[**▶️ Run QR-Code Maker (Desktop Only)**](https://asagiirostudio.itch.io/qr-code-maker)
+[**▶️ Run QR-Code Maker (Desktop Browsers Only)**](https://asagiirostudio.itch.io/qr-code-maker)
 
 ## Featured Highlights
-- Realtime preview
-- Download your QR-Code
+- Realtime QR-Code preview
+- Download & Copy your QR-Code
 - 100% free and open source
 
 ## Supported Engines
-- [X] Construct 3 (r346+)
+- [X] Construct 3 (r462+)
 - [ ] Construct 2
 
 ## Contributions & References
